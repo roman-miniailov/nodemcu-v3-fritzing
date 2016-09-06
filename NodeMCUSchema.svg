@@ -37,7 +37,7 @@
      id="namedview129"
      showgrid="false"
      inkscape:zoom="10.269366"
-     inkscape:cx="9.9400692"
+     inkscape:cx="-7.5877899"
      inkscape:cy="67.631097"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -469,8 +469,9 @@
      font-size="4.25"
      id="text125">NodeMCU </text>
 <text
-     transform="matrix(1 0 0 1 29.5884 58.5)"
-     font-family="'DroidSans'"
      font-size="4.25"
-     id="text127">V1.0</text>
+     id="text127"
+     style="font-size:4.25px;font-family:DroidSans"
+     x="23.745781"
+     y="58.5">V3.0 Lolin</text>
 </svg>
