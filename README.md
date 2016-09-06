@@ -1,6 +1,8 @@
 # nodemcu-v3-fritzing
 NodeMCU v3 Fritzing model
 
+## Merged to https://github.com/roman-minyaylov/fritzing-parts
+
 
 ![NodeMCU v3.0](NodeMCUBreadboard.png)
 
